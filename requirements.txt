@@ -1,0 +1,23 @@
+# Core API
+fastapi
+uvicorn[standard]
+python-multipart
+python-socketio
+python-dotenv
+requests
+jinja2
+pydantic>=2.4.2
+pydantic-settings
+sqlalchemy
+werkzeug
+
+# HR Agent Logic
+crewai
+crewai_tools
+langchain
+langchain_openai
+pypdf
+docx2txt
+reportlab
+python-docx
+pandas
